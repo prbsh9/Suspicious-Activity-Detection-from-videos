@@ -16,3 +16,4 @@ big_frames_to_feature_map.ipynb - just bigger version of Small_frames_to_feature
 
 After getting npy file: <br>
 Small_RNNImageClassifier.ipynb - Predict from the numpy file of small dataset as dummy dataset of around 15 GB.
+RNNImageClassifier.ipynb - Predict from the numpy file of dataset using LSTM.
