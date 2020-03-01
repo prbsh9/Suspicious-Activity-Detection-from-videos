@@ -1,7 +1,7 @@
 # Suspicious-Activity-Detection-from-videos
 
 ### Extract frames from the video:
-fileToSearch.ipynb - extract frames to their respective dir from video dataset.
+get_frames_from_video.ipynb - extract frames to their respective dir from video dataset.
 
 ### Way1 Plain CNN
 ImageclassifierCNN.ipynb- update required.. tried with CNN using keras/tf and a image as a single data of either normal or abnormal.<br>
@@ -17,3 +17,13 @@ big_frames_to_feature_map.ipynb - just bigger version of Small_frames_to_feature
 After getting npy file: <br>
 Small_RNNImageClassifier.ipynb - Predict from the numpy file of small dataset as dummy dataset of around 15 GB.
 RNNImageClassifier.ipynb - Predict from the numpy file of dataset using LSTM.
+
+## Other files
+1.csv<br>
+2.csv<br>
+3.csv<br>
+4.csv<br>
+final.csv<br>
+These CSV files helps us to get frames of the video in correct order easily.
+<br>
+## completing soon
